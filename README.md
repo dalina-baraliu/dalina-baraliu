@@ -1,6 +1,6 @@
 # Hi, I'm Dalina! 👋
 
-🎓 Computer Engineering Student at UBT  
+🎓 Computer Science & Engineering Student at UBT  
 🔐 Interested in Cybersecurity, Malware Analysis & Digital Forensics  
 💻 Exploring Software Engineering, Networking & AI Evaluation
 
