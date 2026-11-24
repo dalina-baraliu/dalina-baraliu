@@ -17,10 +17,10 @@ I'm a Computer Engineering student passionate about cybersecurity, particularly 
 
 ## Featured Projects
 
-- **LLM Evaluation Benchmark** — Language model evaluation, benchmarking, and performance analysis.
-- **YARA Malware Scanner** — Rule-based malware detection.
-- **Hospital Network Design** — Network design and configuration using Cisco Packet Tracer.
-- **Java Train Management System** — Object-oriented application development in Java.
+- **LLM Evaluation Benchmark** - Language model evaluation, benchmarking, and performance analysis.
+- **YARA Malware Scanner** - Rule-based malware detection.
+- **Hospital Network Design** - Network design and configuration using Cisco Packet Tracer.
+- **Java Train Management System** - Object-oriented application development in Java.
 
 ## Connect With Me
 
